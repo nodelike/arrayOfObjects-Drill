@@ -1,8 +1,8 @@
 //    Implement a loop to access and print the ages of all individuals in the dataset.
 function printAllAges(arrayOfObjects) {
     try {
-        for (let i = 0; i < arrayOfObjects.length; i++) {
-            const person = arrayOfObjects[i];
+        for (let index = 0; index < arrayOfObjects.length; index++) {
+            const person = arrayOfObjects[index];
             console.log(`Age: ${person.age}`);
         }
     } catch (error) {
