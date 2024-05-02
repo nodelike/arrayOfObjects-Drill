@@ -2,7 +2,7 @@
 function logCityAndCountry(arrayOfObjects) {
     try {
         for (let index = 0; index < arrayOfObjects.length; index++) {
-            const person = arrayOfObjects[i];
+            const person = arrayOfObjects[index];
             console.log(`Name: ${person.name} | City: ${person.city} | Country: ${person.country}`);
         }
     } catch (error) {
