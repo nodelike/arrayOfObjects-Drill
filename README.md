@@ -2,7 +2,7 @@
 
 Problem: [Link to the problem set](https://gist.github.com/nodelike/6fc45ed137eede07b3fd9fd41363102c)
 
-This repo contains the solution of JS Drill: Cars of Mountblue JS Drill: Cars.
+This repo contains the solution of arrayOfObjects Drill of Mountblue JS Bootcamp.
 
 ## Checking the Solution
 
